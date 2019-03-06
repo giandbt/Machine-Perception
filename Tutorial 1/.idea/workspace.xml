@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f006527-1db9-47a5-b39f-f674ee18fd32" name="Default Changelist" comment="" />
+    <list default="true" id="2f006527-1db9-47a5-b39f-f674ee18fd32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eye-Gaze_NN/eye_gaze_Giancarlo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Eye-Gaze_NN/eye_gaze_Giancarlo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,25 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/eye_gaze_Giancarlo.py">
+        <entry file="file://$PROJECT_DIR$/Eye-Gaze_NN/eye_gaze_Giancarlo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="325" column="22" lean-forward="true" selection-start-line="325" selection-start-column="22" selection-end-line="325" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xor_Giancarlo_modified.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="182" column="30" selection-start-line="182" selection-start-column="30" selection-end-line="182" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -47,10 +35,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/eye_gaze_Giancarlo.py" />
+        <option value="$PROJECT_DIR$/Eye-Gaze_NN/eye_gaze_Giancarlo.py" />
       </list>
     </option>
   </component>
@@ -60,6 +52,7 @@
     <option name="width" value="927" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -72,6 +65,16 @@
             <path>
               <item name="Tutorial 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tutorial 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tutorial 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Eye-Gaze_NN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tutorial 1" type="462c0819:PsiDirectoryNode" />
+              <item name="XOR_MLP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,6 +150,9 @@
       <module name="Tutorial 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -186,16 +192,18 @@
       <workItem from="1551804854320" duration="24000" />
       <workItem from="1551812757906" duration="4371000" />
       <workItem from="1551864732953" duration="6340000" />
+      <workItem from="1551879566577" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13452000" />
+    <option name="totallyTimeSpent" value="13505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17432208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1765357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,11 +218,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.33045357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.49678457" visible="true" weight="0.1455451" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49678457" visible="true" weight="0.1455451" />
       <window_info anchor="right" x="0" y="0" width="181" height="855" id="Documentation" order="4" sideWeight="0.50321543" side_tool="true" weight="0.60819036" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
@@ -223,6 +231,19 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eye_data.h5">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eye_gaze_Giancarlo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="325" column="22" selection-start-line="325" selection-start-column="22" selection-end-line="325" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xor_Giancarlo_modified.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -233,16 +254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eye_data.h5">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eye_gaze_Giancarlo.py">
+    <entry file="file://$PROJECT_DIR$/Eye-Gaze_NN/eye_gaze_Giancarlo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="325" column="22" lean-forward="true" selection-start-line="325" selection-start-column="22" selection-end-line="325" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>

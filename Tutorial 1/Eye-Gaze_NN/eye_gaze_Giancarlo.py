@@ -1,5 +1,4 @@
 import h5py
-from IPython import display
 import matplotlib.pyplot as plt
 import numpy as np
 
